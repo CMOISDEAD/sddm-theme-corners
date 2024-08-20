@@ -35,6 +35,14 @@ For Arch users, the theme is available from the AUR [here](https://aur.archlinux
 paru sddm-theme-corners-git
 ```
 
+### Using Curl
+
+You can also download and run the installation script directly from the web:
+
+```sh
+curl -L https://raw.githubusercontent.com/cmoisdead/sddm-theme-corners/main/script.sh
+```
+
 ### Manually
 
 On other distros, download/clone this repo, and copy the `corners/` folder to `/usr/share/sddm/themes/`.
