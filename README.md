@@ -40,7 +40,7 @@ paru sddm-theme-corners-git
 You can also download and run the installation script directly from the web:
 
 ```sh
-curl -s https://raw.githubusercontent.com/cmoisdead/sddm-theme-corners/main/install.sh | bash
+curl -s https://raw.githubusercontent.com/CMOISDEAD/sddm-theme-corners/main/install.sh | bash
 ```
 
 ### Manually
