@@ -2,7 +2,7 @@
 
 echo "Installing sddm-theme-corners"
 
-git clone https://github.com/aczw/sddm-theme-corners.git
+git clone https://github.com/cmoisdead/sddm-theme-corners.git
 
 cd sddm-theme-corners/
 
