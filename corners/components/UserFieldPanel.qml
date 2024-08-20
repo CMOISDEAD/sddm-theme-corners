@@ -1,4 +1,4 @@
-import QtGraphicalEffects 1.12
+import Qt5Compat.GraphicalEffects
 import QtQuick 2.15
 import QtQuick.Controls 2.15
 
@@ -17,6 +17,7 @@ TextField {
 
     text: userModel.lastUser
     placeholderText: config.UserPlaceholderText
+    placeholderTextColor: config.InputPlaceholderTextColor
     horizontalAlignment: Text.AlignHCenter
 
     color: config.InputTextColor
