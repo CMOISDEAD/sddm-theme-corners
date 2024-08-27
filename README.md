@@ -2,12 +2,12 @@
 
 A very customizable [SDDM](https://github.com/sddm/sddm) theme that places controls on your screen corners.
 
-<img src="docs/glacier.png" width="45%"></img>
-<img src="docs/hanako.png" width="45%"></img>
-<img src="docs/loud.png" width="45%"></img>
-<img src="docs/sky.png" width="45%"></img>
+<img src="https://github.com/user-attachments/assets/173b8774-33d5-4c8f-b1bc-ac3458fb8be2" width="45%"></img>
+<img src="https://github.com/user-attachments/assets/48323368-bf71-476d-af82-2e2382dd0623" width="45%"></img>
+<img src="https://github.com/user-attachments/assets/a90bcab1-78d4-4b1c-8c3d-b0dfa144d59c" width="45%"></img>
+<img src="https://github.com/user-attachments/assets/e0953140-5727-43e4-a2d0-f3d39536aead" width="45%"></img>
 
-I couldn't really find a preexisting theme that I liked, so I made my own. Layout inspired by [sddm-chinese-painting-theme](https://github.com/fralonra/sddm-chinese-painting-theme).
+An enhanced version of [corners](https://github.com/aczw/sddm-theme-corners), open to pull requests and focused on addressing the issues present in the original.
 
 ## Dependencies
 
@@ -27,13 +27,13 @@ pacman -Syu sddm qt5-graphicaleffects qt5-svg qt5-quickcontrols2
 
 ## Installation
 
-### From the AUR
+<!--### From the AUR
 
 For Arch users, the theme is available from the AUR [here](https://aur.archlinux.org/packages/sddm-theme-corners-git). Install it with your favorite AUR helper:
 
 ```sh
 paru sddm-theme-corners-git
-```
+```-->
 
 ### Using Curl
 
@@ -48,7 +48,7 @@ curl -s https://raw.githubusercontent.com/CMOISDEAD/sddm-theme-corners/main/inst
 On other distros, download/clone this repo, and copy the `corners/` folder to `/usr/share/sddm/themes/`.
 
 ```sh
-git clone https://github.com/aczw/sddm-theme-corners.git
+git clone https://github.com/CMOISDEAD/sddm-theme-corners.git
 cd sddm-theme-corners/
 sudo cp -r corners/ /usr/share/sddm/themes/
 ```
