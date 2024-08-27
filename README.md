@@ -2,10 +2,12 @@
 
 A very customizable [SDDM](https://github.com/sddm/sddm) theme that places controls on your screen corners.
 
-<img src="https://github.com/user-attachments/assets/173b8774-33d5-4c8f-b1bc-ac3458fb8be2" width="45%"></img>
-<img src="https://github.com/user-attachments/assets/48323368-bf71-476d-af82-2e2382dd0623" width="45%"></img>
-<img src="https://github.com/user-attachments/assets/a90bcab1-78d4-4b1c-8c3d-b0dfa144d59c" width="45%"></img>
-<img src="https://github.com/user-attachments/assets/e0953140-5727-43e4-a2d0-f3d39536aead" width="45%"></img>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/173b8774-33d5-4c8f-b1bc-ac3458fb8be2" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/48323368-bf71-476d-af82-2e2382dd0623" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/a90bcab1-78d4-4b1c-8c3d-b0dfa144d59c" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/e0953140-5727-43e4-a2d0-f3d39536aead" width="45%"/>
+</div>
 
 An enhanced version of [corners](https://github.com/aczw/sddm-theme-corners), open to pull requests and focused on addressing the issues present in the original.
 
